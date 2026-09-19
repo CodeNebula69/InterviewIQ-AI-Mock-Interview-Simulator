@@ -278,6 +278,12 @@ InterviewIQ aims to evolve into an intelligent interview preparation platform ca
 
 ---
 
+## Phase Status
+
+✅ Phase 1 Completed
+
+🚧 Phase 2 In Progress
+
 # 👨‍💻 Developed By
 
 Team Error 404
