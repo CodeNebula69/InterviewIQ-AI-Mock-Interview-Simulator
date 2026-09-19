@@ -10,6 +10,18 @@ public class Candidate {
         this.skill = skill;
     }
 
+    public String getName() {
+        return name;
+    }
+
+    public String getBranch() {
+        return branch;
+    }
+
+    public String getSkill() {
+        return skill;
+    }
+
     public void displayDetails() {
         System.out.println("\n===== Candidate Details =====");
         System.out.println("Name   : " + name);
