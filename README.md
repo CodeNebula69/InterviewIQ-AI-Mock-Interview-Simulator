@@ -280,6 +280,8 @@ InterviewIQ aims to evolve into an intelligent interview preparation platform ca
 
 # 👨‍💻 Developed By
 
+Team Error 404
+
 Project-Based Learning (PBL)
 
 InterviewIQ – AI-Powered Mock Interview Simulator
